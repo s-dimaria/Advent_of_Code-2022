@@ -7,4 +7,4 @@ For all the challenges I will use Java because i like it :D.
 
 | Days | Part One | Part Two |
 |------|----------|----------|
-| 1 | [x] | <ul><li>[x]</li><li>|
+| 1 | - [x] | |
