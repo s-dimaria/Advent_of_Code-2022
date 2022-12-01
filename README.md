@@ -1,6 +1,6 @@
 # Advent of code 2022
 
-![](https://progress-bar.dev/4?title=completed) 	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![](https://progress-bar.dev/4?title=completed) 	[[![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.javascript.com)](https://img.shields.io/badge/Made%20With-Java-orange)
 
 [Advent of code](https://adventofcode.com) 2022 challenges.
 For all the challenges I will use Java because i like it :D. 
