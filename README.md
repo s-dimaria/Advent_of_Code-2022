@@ -8,7 +8,7 @@ For all the challenges I will use Java because i like it :D.
 | Days | Part One | Part Two |
 |------|----------|----------|
 | 1 | <a href="Day1/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Day1/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
-| 2 | ❌ | ❌ |
+| 2 | <a href="Day2/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Day2/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
 | 3 | ❌ | ❌ |
 | 4 | ❌ | ❌ |
 | 5 | ❌ | ❌ |
