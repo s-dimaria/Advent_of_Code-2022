@@ -12,7 +12,7 @@ For all the challenges i will use different type of programming languages :D.
 | 1 | <a href="Java/Day1/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Java/Day1/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
 | 2 | <a href="Java/Day2/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Java/Day2/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
 | 3 | <a href="Java/Day3/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Java/Day3/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
-| 4 | ❌ | ❌ |
+| 4 | <a href="Java/Day4/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Java/Day4/src/PuzzlePartOne.java">:heavy_check_mark:</a> |
 | 5 | ❌ | ❌ |
 | 6 | ❌ | ❌ |
 | 7 | ❌ | ❌ |
