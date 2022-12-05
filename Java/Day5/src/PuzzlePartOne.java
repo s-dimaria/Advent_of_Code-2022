@@ -46,18 +46,17 @@ public class PuzzlePartOne {
             int from = 0;
             int to = 0;
 
-            if(s.substring(0,4).equals("move")) {
-                s = s.replaceAll("move", "");
-                s = s.replaceAll("from", "");
-                s = s.replaceAll("to", "");
-                StringTokenizer strTok = new StringTokenizer(s," ");
+            s = s.replaceAll("move", "");
+            s = s.replaceAll("from", "");
+            s = s.replaceAll("to", "");
 
-                crates = parseInt(strTok.nextToken());
-                from = parseInt(strTok.nextToken());
-                to = parseInt(strTok.nextToken());
+            StringTokenizer strTok = new StringTokenizer(s," ");
+            crates = parseInt(strTok.nextToken());
+            from = parseInt(strTok.nextToken());
+            to = parseInt(strTok.nextToken());
 
-                cratesToMove(crates,from,to,cargo);
-            }
+            cratesToMove(crates,from,to,cargo);
+
         }
 
         String result = "";
