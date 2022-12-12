@@ -5,14 +5,11 @@ import java.util.Scanner;
 public class PuzzlePartTwo {
 
     static String[] CRT = new String[40*6];
-    static String[] sprite = new String[40];
 
     public static void main(String[] args) {
 
         int registerX = 1;
         int ciclies = 0;
-
-        initSprite(registerX);
 
         try {
             Scanner sc = new Scanner(new File("input.txt"));
@@ -22,14 +19,19 @@ public class PuzzlePartTwo {
                 if (cmd.equals("addx")) {
                     int v = sc.nextInt();
                     for(int i = 0; i < 2; i++) {
-                        drawSprite(ciclies);
+                        if((ciclies%40) >= (registerX-1) && (ciclies%40) <= (registerX+1))
+                            CRT[ciclies] = "#";
+                        else
+                            CRT[ciclies] = " ";
                         ciclies++;
                     }
                     registerX += v;
-                    shiftSprite(registerX);
 
                 } else {
-                    drawSprite(ciclies);
+                    if((ciclies%40) >= (registerX-1) && (ciclies%40) <= (registerX+1))
+                        CRT[ciclies] = "#";
+                    else
+                        CRT[ciclies] = " ";
                     ciclies++;
                 }
             }
@@ -45,37 +47,4 @@ public class PuzzlePartTwo {
         }
     }
 
-    private static void drawSprite(int ciclies) {
-
-        if(sprite[ciclies%40].equals("#"))
-            CRT[ciclies] = "#";
-        else
-            CRT[ciclies] = " ";
-
-    }
-    private static void initSprite(int registerX) {
-
-        for(int i = 0; i < 40; i++)
-            sprite[i] = " ";
-
-        for (int i = (registerX - 1); i < 3; i++) {
-            sprite[i] = "#";
-        }
-
-    }
-
-    private static void shiftSprite(int registerX) {
-
-        initSprite(1);
-
-        while(registerX-1 > 0) {
-            for (int i = 39; i > 0; i--) {
-                String temp = sprite[i-1];
-                sprite[i] = temp;
-                sprite[i-1]= ".";
-            }
-            registerX--;
-        }
-
-    }
 }
