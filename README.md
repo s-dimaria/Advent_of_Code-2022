@@ -1,6 +1,6 @@
 # Advent of code 2022
 
-![](https://progress-bar.dev/4?title=completed) 	![](https://img.shields.io/badge/Made%20With-Java-orange)
+![](https://progress-bar.dev/13?title=completed) 	![](https://img.shields.io/badge/Made%20With-Java-orange)
 
 [Advent of code](https://adventofcode.com) 2022 challenges.
 For all the challenges i will use different type of programming languages :D. 
@@ -21,7 +21,7 @@ For all the challenges i will use different type of programming languages :D.
 | 10 | <a href="Java/Day10/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Java/Day10/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
 | 11 | <a href="Java/Day11/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Java/Day11/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
 | 12 | <a href="Java/Day12/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Java/Day12/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
-| 13 | ❌ | ❌ |
+| 13 | <a href="Java/Day13/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Java/Day13/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
 | 14 | ❌ | ❌ |
 | 15 | ❌ | ❌ |
 | 16 | ❌ | ❌ |
