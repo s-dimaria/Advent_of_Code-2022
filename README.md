@@ -25,7 +25,7 @@ For all the challenges i will use different type of programming languages :D.
 | 14 | <a href="Java/Day14/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Java/Day14/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
 | 15 | <a href="Java/Day15/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Java/Day15/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
 | 16 | <a href="Java/Day16/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Java/Day16/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
-| 17 | ❌ | ❌ |
+| 17 | <a href="Java/Day17/src/PuzzlePartOne.java">:heavy_check_mark:</a> | <a href="Java/Day17/src/PuzzlePartTwo.java">:heavy_check_mark:</a> |
 | 18 | ❌ | ❌ |
 | 19 | ❌ | ❌ |
 | 20 | ❌ | ❌ |
